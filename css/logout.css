@@ -1,0 +1,12 @@
+nav{
+    background-color: #24353F;
+    box-shadow: 1px 1px 50px 20px ;
+}
+body{
+    background-color: #24353F;
+}
+.caption{
+    width: 60%;
+    height: 20%;
+    box-shadow: 1px 1px 30px 20px;
+}
